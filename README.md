@@ -4,15 +4,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4E03AQEcPIqwA_nXuw/profile-displayphoto-shrink_800_800/0/1716349295166?e=1721865600&v=beta&t=_3TvbKCxCcIlJ3j2SAs09EjKPthLklhrJy7fhU3a0fs"  />
+<div align="center">
+  <img height="150" src="https://media.licdn.com/dms/image/D4E03AQEcPIqwA_nXuw/profile-displayphoto-shrink_800_800/0/1716349295166?e=1721865600&v=beta&t=_3TvbKCxCcIlJ3j2SAs09EjKPthLklhrJy7fhU3a0fs"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/nanda-kishore-mandadapu-b36080199/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
